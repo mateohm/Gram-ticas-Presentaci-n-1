@@ -1,0 +1,7 @@
+ab
+aabb
+aababb
+aaababbb
+b
+aba
+aab
